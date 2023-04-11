@@ -9,3 +9,5 @@ if(numero_secreto==chute):
     print("Acertou, o numero é", chute_str)
 else:
     print("Você errou")
+   
+print("Fim do Jogo!")
